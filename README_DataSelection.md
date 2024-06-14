@@ -1,5 +1,6 @@
 # RT2 Project 6: Data Selection Parameter Estimation Framework
 Jack Fogelquist
+
 2024-06-04
 
 This script is an example implementation of the data selection parameter estimation framework developed in J. Fogelquist and X. Lin, "Uncertainty-Aware Data Selection Framework for Parameter Estimation with Application to Li-ion Battery," 2022 American Control Conference (ACC), Atlanta, GA, USA, 2022, pp. 384-391, doi: 10.23919/ACC53348.2022.9867243
